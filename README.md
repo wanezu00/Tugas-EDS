@@ -6,3 +6,6 @@ Link Youtube : https://youtu.be/HYbJHoAWvkU
 
 # Tugas EDS Logic
 Link Youtube : https://youtu.be/lxjapUge1_M
+
+# Tugas EDS Aggregation
+Link Youtube : https://www.youtube.com/watch?v=PseGGeljRBI
